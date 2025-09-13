@@ -1,4 +1,5 @@
 # Pump.fun New Token Sniper Script – Full Documentation
+🌐 Languages: [English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국인](README.kr.md)| [Русский](README.ru.md)
 
 📋 **Project Overview**  
 This is a Pump.fun new token sniper script developed in TypeScript.  

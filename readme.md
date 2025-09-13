@@ -6,7 +6,7 @@ This is a Pump.fun new token sniper script developed in TypeScript.
 It retrieves new token information via high-performance gRPC streaming, obtains token launch times, and compares them with the current system time.  
 By executing buy orders at the earliest possible moment, it allows you to buy simultaneously with the developer.  
 With sufficiently low time thresholds, it can even achieve the same slot purchase as the developer.  
-
+Running wallet address：39H3DGBpHpffjTuwQDR9yv9AgbK4U4hesLdsVZ9yDDc9
 ---
 
 🎯 **Core Features**  
